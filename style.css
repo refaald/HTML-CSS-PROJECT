@@ -1,0 +1,25 @@
+
+body{
+    background-image: url('background-image.png');
+}
+h1 {
+    color: black;
+    
+    }
+    
+    p {
+    color: pink;
+    text-align: center;
+    }
+
+    table,th,td
+{
+    border: 10px double rgb(116, 176, 116);
+    padding: 10px;
+
+}
+form{
+    
+padding-bottom: 10px;
+    color: rgb(226, 73, 43);
+}
